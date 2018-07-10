@@ -1,0 +1,18 @@
+
+.navigate {
+  display: inline-flex;
+}
+.options {
+  width: 200px;
+  height: 40px;
+  margin-left: 10px;
+  margin-top: 6px;
+}
+
+.block {
+  display: block;
+  margin: 50px 100px ;
+}
+h3 {
+  margin-left: 50px;
+}
